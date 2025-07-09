@@ -1,0 +1,5 @@
+cd backend && python3 app.py
+cd frontend && npm install && npm start
+
+npm install seo-crawler
+npm install axios robots-txt-parser xml2js
